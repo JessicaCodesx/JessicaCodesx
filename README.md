@@ -16,8 +16,7 @@ Check out my portfolio to see what I’ve been working on:
 - React + Vite + TailwindCSS
 - Java, Spring Boot
 - Firebase & MongoDB
-- MySQL, IndexedDB
-- Electron, TypeScript
+- MySQL
 
 ---
 
