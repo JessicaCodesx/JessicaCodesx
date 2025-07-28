@@ -8,7 +8,7 @@ Whether it's a study helper app, a casino game for friends, or a full-stack book
 
 ## Portfolio Website  
 Check out my portfolio to see what I’ve been working on:  
-🔗 [jessicacodesx.github.io/portfolio-2.0](https://jessicacodesx.github.io/portfolio-2.0/)
+🔗 [https://jessicacodesx.github.io/jessicagarcia/)
 
 ---
 
