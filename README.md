@@ -4,6 +4,9 @@ _Actively seeking software engineering opportunities while preparing for my Mast
 
 ---
 
+## Check out my Portfolio Site!
+https://jessicacodesx.github.io/jessicagarcia/
+
 ## 🚀 About Me
 
 I'm a passionate software engineer who discovered the power of code while balancing family life and education. My journey into tech began when I decided to pursue my passion for problem-solving and creating digital solutions that make a difference.
