@@ -1,116 +1,92 @@
-# Hi there, I'm Jessica Garcia! 👋  
-**Software Engineer | Competitive Gamer | Academic Achiever | Problem Solver**  
-_Actively seeking software engineering opportunities while preparing for my Master's at UT Austin 🎓_
+# Hi, I’m Jessica Garcia
+
+**New Graduate Software Engineer | Full-Stack & Cloud-Focused | Open to Opportunities**
+
+I’m a recent Honours Bachelor of Computer Science graduate with a strong foundation in full-stack development and a growing focus on cloud and DevOps technologies. I enjoy building practical, scalable software systems and continuously improving how applications are designed, deployed, and maintained.
+
+I’m actively seeking **entry-level / new graduate Software Engineer opportunities**, particularly in **backend, full-stack, or cloud-adjacent roles**.
 
 ---
 
-## Check out my Portfolio Site!
-https://jessicacodesx.github.io/jessicagarcia/
+## Portfolio
 
-## 🚀 About Me
-
-I'm a passionate software engineer who discovered the power of code while balancing family life and education. My journey into tech began when I decided to pursue my passion for problem-solving and creating digital solutions that make a difference.
-
-- 🎯 **Currently:** Finishing Honours Bachelor of Computer Science (GPA: 3.53)  
-- 🏆 **Achievement:** Accepted to UT Austin Master's CS program (Starting Jan 2026!)  
-- 🎮 **Background:** Former competitive COD player & esports organization founder (2014–2020)  
-- 🎨 **Creative Side:** Artist exploring painting and tattoo artistry  
-- 👑 **Life Balance:** Dedicated mom crushing academic goals  
-- 📍 **Location:** London, Ontario, Canada  
-- 💼 **Status:** **ACTIVELY SEEKING OPPORTUNITIES** – Open to full-time, part-time, and contract work  
+**Website:** https://jessicacodesx.github.io/jessicagarcia/
 
 ---
 
-## 🎯 Featured Projects
+## About Me
 
-### 📚 **Study Sidekick**  
-*Comprehensive offline-first study assistant*  
+I bring a practical, execution-focused approach to software development shaped by academic training, independent project work, and real-world problem solving.
+
+- **Education:** Honours Bachelor of Computer Science  
+- **Location:** London, Ontario, Canada  
+- **Current Focus:** Cloud development, DevOps practices, and certification preparation  
+- **Status:** Open to full-time, part-time, contract, and junior roles  
+
+My experience spans frontend, backend, and system-level concerns, with an emphasis on clean architecture, maintainability, and performance.
+
+---
+
+## Technical Skills
+
+- **Languages:** Java, Python, JavaScript, TypeScript, SQL  
+- **Frameworks & Libraries:** React, Spring Boot, Node.js, Express  
+- **Databases:** MySQL, SQL Server, MongoDB, Firebase Firestore, IndexedDB  
+- **Tools & Practices:** Git, GitLab, Docker, CI/CD pipelines, REST APIs, JWT, Agile, TDD  
+- **Platforms:** Linux, Firebase  
+
+---
+
+## Featured Projects
+
+### Study Sidekick  
+**Offline-first study management application**
+
 - Built with React, TypeScript, and IndexedDB  
-- Features course management, flashcards with spaced repetition, GPA tracking  
-- **Problem solved:** Students juggling multiple courses and study materials  
+- Includes course management, spaced repetition flashcards, GPA tracking, and calendar features  
+- Focused on performance optimization, offline reliability, and scalable state management  
 
-### 🐱 **Kitty Blackjack**  
-*Animated Blackjack game with cat dealer*  
-- Developed in Godot Engine with Firebase leaderboards  
-- Features emotional cat dealer and competitive gameplay  
-- **Challenge:** Learning game development from scratch  
+---
 
-### 🏢 **Event Management System**  
-*Full-stack enterprise application*  
+### Event Management System  
+**Full-stack enterprise-style web application**
+
 - Spring Boot backend with React frontend  
-- Role-based authentication and complete event lifecycle management  
-- **Scope:** Multi-user system with admin controls and invoice processing  
-
-### 🎮 **Dress-Up Game**  
-*Interactive game with custom artwork*  
-- All assets are original hand-drawn illustrations  
-- React-based with smooth animations and sound effects  
-- **Creative twist:** Combined technical skills with artistic expression  
+- Role-based authentication using JWT  
+- Designed relational database schema with optimized queries and indexing  
+- Supports event lifecycle management, vendor coordination, and analytics dashboards  
 
 ---
 
-## 🎓 Academic Excellence
+### Kitty Blackjack  
+**Game development project**
 
-### 🏛️ **University of Texas at Austin** *(Jan 2026 – Expected 2028)*  
-Master of Science, Computer Science  
-**Status: ACCEPTED! 🎉**
-
-### 🏛️ **Algoma University** *(Expected Dec 2025)*  
-Honours Bachelor of Computer Science  
-- GPA: 3.53  
-- Focus: Algorithms, Software Engineering, Computer Networks
-
-### 🏛️ **Algonquin College** *(Graduated 2024)*  
-Honours Diploma, Computer Programming  
-- GPA: 3.9  
-- **Graduated with Honours**
+- Built using Godot Engine with Firebase integration  
+- Implemented gameplay logic, animations, and leaderboard functionality  
+- Served as a hands-on introduction to game architecture and real-time systems  
 
 ---
 
-## 🏆 What Makes Me Unique
+## Background & Strengths
 
-### 🎮 **Competitive Gaming Leadership**  
-- 6+ years competitive Call of Duty (2014–2020)  
-- Founded and funded own esports organization  
-- Developed team leadership and strategic thinking skills  
-
-### ⚡ **Efficiency & Balance**  
-- Maintaining 3.5+ GPA while being a dedicated parent  
-- Time management skills from balancing multiple responsibilities  
-- Strategic approach to learning and problem-solving  
-
-### 🎨 **Creative Problem Solving**  
-- Artistic background in painting and design  
-- Unique perspective combining creativity with technical skills  
-- Hand-drawn assets for personal projects  
+- Experience working independently across the full software development lifecycle  
+- Strong time management and prioritization skills developed while balancing academics, development work, and family responsibilities  
+- Background in competitive team environments, contributing to leadership, communication, and problem-solving abilities  
 
 ---
 
-## 📫 Let's Connect!
+## Current Focus
 
-I'm actively seeking software engineering opportunities and would love to discuss how I can contribute to your team!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jessicagarcia5714/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet?style=for-the-badge)](https://jessicacodesx.github.io/jessicagarcia/#/)
-[![GitHub](https://img.shields.io/badge/GitHub-JessicaCodesx-black?logo=github&style=for-the-badge)](https://github.com/JessicaCodesx)
-
----
-
-## 💡 Current Focus
-
-- 🔭 **Working on:** Movie Review App and Can Weather Watch  
-- 🌱 **Learning:** Advanced algorithms and system design for UT Austin  
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications  
-- 💬 **Ask me about:** React development, game development with Godot, balancing family and tech career  
-- ⚡ **Fun fact:** I once managed a competitive esports team while learning to code!
+- Expanding knowledge in cloud infrastructure and DevOps tooling  
+- Preparing for cloud-related certifications  
+- Building production-style projects that reflect real-world system design  
+- Open to collaboration on meaningful software projects  
 
 ---
 
-> 🎯 _"I'm not just building software – I'm crafting solutions that matter, one thoughtful line of code at a time."_  
-> _Ready to bring dedication, diverse experience, and fresh perspectives to your development team!_
+## Connect
 
----
+- **LinkedIn:** https://www.linkedin.com/in/jessicagarcia5714/  
+- **Portfolio:** https://jessicacodesx.github.io/jessicagarcia/  
 
-<div align="center">
-  ⭐ If you find my projects interesting, please consider giving them a star!
-</div>
+If you’re hiring, building something interesting, or open to connecting, feel free to reach out.
